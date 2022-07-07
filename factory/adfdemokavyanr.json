@@ -1,0 +1,9 @@
+{
+	"name": "adfdemokavyanr",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41671785-5898-4541-b27b-584039ea2bf9",
+		"tenantId": "a4f81bcf-0e97-4552-adf6-1310f29a31f5"
+	}
+}
